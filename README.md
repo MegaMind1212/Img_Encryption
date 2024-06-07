@@ -19,12 +19,6 @@ The Pixel Manipulation project provides a tool for encrypting and decrypting ima
 - **Adding Key to Pixel Values**: During encryption, we add the key value to each pixel's RGB values, and take modulo 256 to ensure the pixel values stay within the valid range (0-255).
 - **Subtracting Key from Pixel Values**: During decryption, we subtract the key value from each pixel's RGB values, and take modulo 256 to handle wrap-around.
 
-### Running the Application
-
-Run the script `Img_encrypt.py` using Python:
-```bash
-python Img_encrypt.py
-
 ### Follow the prompts to provide the necessary information:
 
 - Whether to encrypt or decrypt an image.
@@ -50,5 +44,11 @@ Open both the original and encrypted images in an image viewer. You should see a
 
 ### LinkedIn
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://linkedin.com/in/yash-borkar-048094225)
+[LinkedIn](https://linkedin.com/in/yash-borkar-048094225)
+
+### Running the Application
+
+Run the script `Img_encrypt.py` using Python:
+```bash
+python Img_encrypt.py
 
