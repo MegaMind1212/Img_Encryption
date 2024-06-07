@@ -36,11 +36,10 @@ Open both the original and encrypted images in an image viewer. You should see a
 
 ### Image Proofs
 
-- Original vs. Encrypted Image Comparison:
-  - Path: `images/img2.jpeg`
-
 - Terminal Screenshot:
-  - Path: `images/img1.jpeg`
+  ![Terminal Screenshot](images/img1.jpeg)
+- Original vs. Encrypted Image Comparison:
+  ![Image Comparison](images/img2.jpeg)
 
 ### LinkedIn
 
